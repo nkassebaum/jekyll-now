@@ -3,7 +3,7 @@ layout: post
 title: My first blog post with Jekyll!
 ---
 
-Welcome to my new portfolio website. <h2>Test</h2>
+Welcome to my new portfolio website. #h2 test
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
