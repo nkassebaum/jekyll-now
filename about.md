@@ -6,9 +6,9 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
+### About Me
 
-A place to include any other types of information that you'd like to include about yourself.
+I've been working on the web for over eight years. This info will change but its test for now. 
 
 ### Contact me
 
